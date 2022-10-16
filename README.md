@@ -1,2 +1,2 @@
-# CinecomPipoca
+# CinemaComPipoca
 Created with CodeSandbox
